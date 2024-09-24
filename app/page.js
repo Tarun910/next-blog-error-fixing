@@ -38,7 +38,7 @@ export default function Home() {
           <p className="mt-4 text-lg text-gray-500 dark:text-gray-300">
             Open source Tailwind UI components and templates to{" "}
             <br className="hidden lg:block" /> bootstrap your new apps, projects
-            or landing sites!
+            &apos; or landing sites!
           </p>
           <div className="mt-6 bg-transparent border rounded-lg dark:border-gray-700 lg:w-2/3 focus-within:border-primary focus-within:ring focus-within:ring-primary dark:focus-within:border-primary focus-within:ring-opacity-20">
             <form
@@ -188,8 +188,8 @@ export default function Home() {
             <div className="w-full sm:w-1/2 lg:w-1/3 p-4">
               <div className="p-6 bg-white rounded-lg shadow-lg dark:bg-gray-800 transform transition duration-500 hover:scale-105 text-center">
                 <p className="text-gray-600 dark:text-gray-400">
-                  "This service has been a game-changer for our business. Highly
-                  recommend!"
+                  &quot;This service has been a game-changer for our business.
+                  Highly recommend!&quot;
                 </p>
                 <h3 className="mt-4 text-xl font-semibold text-gray-800 dark:text-gray-200">
                   John Doe
@@ -203,7 +203,8 @@ export default function Home() {
             <div className="w-full sm:w-1/2 lg:w-1/3 p-4">
               <div className="p-6 bg-white rounded-lg shadow-lg dark:bg-gray-800 transform transition duration-500 hover:scale-105 text-center">
                 <p className="text-gray-600 dark:text-gray-400">
-                  "Fantastic support and great features. Worth every penny!"
+                  &quot;Fantastic support and great features. Worth every
+                  penny!&quot;
                 </p>
                 <h3 className="mt-4 text-xl font-semibold text-gray-800 dark:text-gray-200">
                   Jane Smith
@@ -217,13 +218,14 @@ export default function Home() {
             <div className="w-full sm:w-1/2 lg:w-1/3 p-4">
               <div className="p-6 bg-white rounded-lg shadow-lg dark:bg-gray-800 transform transition duration-500 hover:scale-105 text-center">
                 <p className="text-gray-600 dark:text-gray-400">
-                  "Their components made our site look professional and sleek!"
+                  &quot;Amazing tools that have improved our productivity
+                  tremendously.&quot;
                 </p>
                 <h3 className="mt-4 text-xl font-semibold text-gray-800 dark:text-gray-200">
                   Emily Johnson
                 </h3>
                 <p className="text-gray-500 dark:text-gray-300">
-                  Designer, Company C
+                  CTO, Company C
                 </p>
               </div>
             </div>
