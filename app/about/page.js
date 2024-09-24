@@ -11,9 +11,11 @@ export default function About() {
                 <Image
                   src="/logo.jpg"
                   alt="Profile of Harry, a software developer"
-                  layout="fill" // Using fill layout for responsive image
+                  layout="fill"
                   objectFit="cover"
                   className="rounded-full"
+                  priority // Prioritize this image for better loading performance
+                  onLoadingComplete={() => console.log("Image loaded")} // Optional for tracking
                 />
               </div>
             </div>
